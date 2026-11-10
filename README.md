@@ -4,7 +4,7 @@ Benedu Insight와 benedu atelier, 두 브랜드의 디자인 시스템을 모은
 
 | 경로 | 내용 |
 |---|---|
-| `index.html` | 두 브랜드를 소개하는 시작 페이지 (KO / EN) |
+| `index.html` | 두 브랜드를 소개하는 영어 시작 페이지 (히어로 한 화면, 모션 그래픽) |
 | `benedu-insight/` | 부모 브랜드 — 반도체 플라즈마·RF 전문 교육. 디자인 시스템 페이지, `DESIGN.md`, 로고 SVG 19개 |
 | `benedu-atelier/` | 교육 브랜드 — 기업 실무 AI 교육. 디자인 시스템 페이지, `DESIGN.md`, 로고 SVG 9개 |
 
